@@ -14,7 +14,6 @@ public class Parser
 {
     
     /**
-     * Constructor de la clase.
      * @param tokens. Lista con los tokens de la expresión LISP.
      * @return Devuelve la Expression en el formato correspondiente (Atom o ListExpression).
     */

@@ -19,7 +19,10 @@ public class Main
             "(factorial 4)",
             "(defun fibonacci (x) (cond ((equals x 0) 0) ((equals x 1) 1) (t (+ (fibonacci (- x 2)) (fibonacci (- x 1))))))",
             "(fibonacci 4)",
-            "(fibonacci 5)"
+            "(fibonacci 5)",
+            "(defun temperatura (c) (+ (/ (* c 9) 5) 32))",
+            "(temperatura 0)",
+            "(temperatura 10)"
         );
 
         Context contexto = new Context();

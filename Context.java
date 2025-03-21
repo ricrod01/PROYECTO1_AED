@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 1
  * Clase que almacena el contexto de las funciones y variables globales.
  * fecha_creación = 15/03/2025

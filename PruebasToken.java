@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 1
  * Pruebas unitarias para la clase Token.
  * fecha_creación = 16/03/2025

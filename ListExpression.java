@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 2
  * Clase que crea y almacena ListExpression.
  * fecha_creación = 9/03/2025

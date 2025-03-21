@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 2
  * Clase encargada de crear estructura de árbol de la expresión LISP pasada por el usuario.
  * fecha_creación = 9/03/2025

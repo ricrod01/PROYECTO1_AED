@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 1
  * Clase abstracta que define las expresiones.
  * fecha_creación = 9/03/2025

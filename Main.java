@@ -1,9 +1,9 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 2
  * Clase principal donde se ingresa la expresi+on LISP a evaluar
  * fecha_creación = 28/02/2025
- * fecha_modificación = 19/03/2025
+ * fecha_modificación = 21/03/2025
  */
 
 import java.util.*;
@@ -22,7 +22,9 @@ public class Main
             "(fibonacci 5)",
             "(defun temperatura (c) (+ (/ (* c 9) 5) 32))",
             "(temperatura 0)",
-            "(temperatura 10)"
+            "(temperatura 10)",
+            "(defun malan (m n) (cond ((equals n 0) 1) (t (* m (malan m (- n 1))))))",
+            "(malan 7 5)"
         );
 
         Context contexto = new Context();
@@ -36,6 +38,7 @@ public class Main
                 Integer resultado = expression.evaluar(contexto);
                 if(resultado != null)
                 {
+                    System.out.println(expression);
                     System.out.println(resultado);
                 }
             } 

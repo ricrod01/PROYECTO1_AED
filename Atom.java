@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 2
  * Clase que crea y almacena Átomos (palabras/números/operadores)
  * fecha_creación = 9/03/2025

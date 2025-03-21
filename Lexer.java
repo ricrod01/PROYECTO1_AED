@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 2
  * Clase encargada de revisar el correcto uso de paréntesis y hacer una lista de Tokens.
  * fecha_creación = 28/02/2025

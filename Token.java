@@ -1,5 +1,5 @@
 /**
- * @author Grupo #
+ * @author Grupo # 5
  * @version 2
  * Clase que crea y almacena el tipo de Token.
  * fecha_creación = 28/02/2025

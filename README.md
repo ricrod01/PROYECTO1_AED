@@ -46,3 +46,6 @@ Este proyecto fue desarrollado por el Grupo 1, como parte del curso de Algoritmo
 Videos demostrativos de todo el proceso de desarrollo y del intérprete funcionando
 
 URL: https://uvggt-my.sharepoint.com/:v:/g/personal/car24458_uvg_edu_gt/EVI3n1rqVqNNmR54TvceirQBMLHt6C5B8PTJSV568B1k7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P2NbEK
+
+## Referencias
+OpenAI. (2025). ChatGPT (versión del 15 de marzo) [Intérprete LISP en Java]. https://chat.openai.com/
